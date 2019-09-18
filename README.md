@@ -50,3 +50,4 @@ This project was generated using:
 * generator-ibm-cloud-enablement v1.5.4
 * generator-ibm-java-spring v
 
+# springWeatherReport
