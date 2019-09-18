@@ -51,3 +51,4 @@ This project was generated using:
 * generator-ibm-java-spring v
 
 # springWeatherReport
+# springWeatherReport
